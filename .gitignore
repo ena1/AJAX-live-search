@@ -1,0 +1,20 @@
+.htaccess
+
+*.psd
+*.ai
+ 
+# Exclude the build products
+build/*
+*.[oa]
+
+.DS_Store
+ 
+*.txt
+# Except read me
+!README.txt
+
+*.log
+
+# Exclude Fonts
+_fonts/
+ 
